@@ -21,6 +21,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sripadma06/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Sripadma06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sripadma06/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Sripadma06/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sripadma06/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sripadma06/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Sripadma06/Leetcode/tree/master/0217-contains-duplicate) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sripadma06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sripadma06/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Sripadma06/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Sorting
 |  |
 | ------- |
