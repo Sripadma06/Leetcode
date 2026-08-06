@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sripadma06/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sripadma06/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sripadma06/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Sripadma06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sripadma06/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sripadma06/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -55,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sripadma06/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Sripadma06/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sripadma06/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -67,4 +70,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sripadma06/Leetcode/tree/master/0053-maximum-subarray) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sripadma06/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
