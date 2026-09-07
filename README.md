@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sripadma06/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Sripadma06/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sripadma06/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sripadma06/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Sripadma06/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sripadma06/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Sripadma06/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1929-concatenation-of-array](https://github.com/Sripadma06/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -43,6 +45,7 @@
 | [0001-two-sum](https://github.com/Sripadma06/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sripadma06/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sripadma06/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Sripadma06/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Dynamic Programming
 |  |
 | ------- |
