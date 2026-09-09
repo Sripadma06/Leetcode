@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sripadma06/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/Sripadma06/Leetcode/tree/master/0242-valid-anagram) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Sripadma06/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sripadma06/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -48,6 +49,7 @@
 | [0001-two-sum](https://github.com/Sripadma06/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sripadma06/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sripadma06/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Sripadma06/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sripadma06/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Sripadma06/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Dynamic Programming
@@ -66,6 +68,7 @@
 | [0018-4sum](https://github.com/Sripadma06/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Sripadma06/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Sripadma06/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sripadma06/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sripadma06/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
