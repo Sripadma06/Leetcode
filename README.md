@@ -31,6 +31,7 @@
 | [0031-next-permutation](https://github.com/Sripadma06/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sripadma06/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sripadma06/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Sripadma06/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Sripadma06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sripadma06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Sripadma06/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sripadma06/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Sripadma06/Leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Sripadma06/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sripadma06/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sripadma06/Leetcode/tree/master/0242-valid-anagram) |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sripadma06/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Sripadma06/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
