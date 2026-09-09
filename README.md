@@ -39,6 +39,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sripadma06/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Sripadma06/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sripadma06/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Sripadma06/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Sripadma06/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1929-concatenation-of-array](https://github.com/Sripadma06/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -47,6 +48,7 @@
 | [0001-two-sum](https://github.com/Sripadma06/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sripadma06/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sripadma06/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Sripadma06/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Sripadma06/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Dynamic Programming
 |  |
@@ -64,6 +66,7 @@
 | [0018-4sum](https://github.com/Sripadma06/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Sripadma06/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Sripadma06/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Sripadma06/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,6 +102,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sripadma06/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sripadma06/Leetcode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Sripadma06/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Manacher
 |  |
 | ------- |
@@ -111,4 +115,20 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sripadma06/Leetcode/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sripadma06/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sripadma06/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sripadma06/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sripadma06/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
